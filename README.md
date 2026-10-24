@@ -6,7 +6,7 @@ assigns wavelengths under physical constraints, protects services against fiber
 cuts, restores traffic automatically, and streams alarms and optical telemetry to
 a live operations dashboard.
 
-**Live demo:** _add your Render URL here_ · **API docs:** `/docs` (OpenAPI)
+**Live demo:** https://lightpath-syt2.onrender.com · **API docs:** https://lightpath-syt2.onrender.com/docs
 
 ![LightPath dashboard](docs/screenshot.png)
 
